@@ -1,7 +1,7 @@
 import axios from 'axios';
 
 const axiosApi = axios.create({
-    baseURL: 'https://zhumabekovaa-js25-default-rtdb.europe-west1.firebasedatabase.app/',
+    baseURL: '//do-not-forget-to-change-url',
 });
 
 export default axiosApi;
